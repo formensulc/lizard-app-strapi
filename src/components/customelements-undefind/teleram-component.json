@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_customelements_undefind_teleram_components",
+  "info": {
+    "displayName": "TeleramComponent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "TokenTelegram": {
+      "type": "string"
+    },
+    "ChatIdTelegram": {
+      "type": "string"
+    }
+  }
+}

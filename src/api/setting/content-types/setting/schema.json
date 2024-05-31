@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "settings",
+  "info": {
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "Setting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "TokenTelegram": {
+      "displayName": "TeleramComponent",
+      "type": "component",
+      "repeatable": false,
+      "component": "customelements-undefind.teleram-component"
+    },
+    "TelegramStatus": {
+      "type": "boolean"
+    }
+  }
+}
